@@ -1,6 +1,6 @@
 {
   "name": "h9ee-progressbar-next",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React + TypeScript progress bar provider for Next.js App Router",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
