@@ -153,7 +153,7 @@ This mimics NProgress-like behavior without external dependencies.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-org/h9ee-progressbar-next.git
+git clone https://github.com/h9ee/h9ee-progressbar-next.git
 cd h9ee-progressbar-next
 npm install
 ```
